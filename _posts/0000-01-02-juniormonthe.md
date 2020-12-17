@@ -2,7 +2,7 @@ ___
 
 layout:slide
 
-title: "Welcome to our second slide !"
+title: "Aspire to Inspire before we Expire"
 
 ___
 
